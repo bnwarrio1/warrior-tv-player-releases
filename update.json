@@ -1,0 +1,8 @@
+{
+  "versionCode": 10,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.8.0/WarriorTVPlayer-0.8.0.apk",
+  "sha256": "1f87ec49bf741d7305b68d522b86d229aa0506d50239b100713a4ea3bcac72b7",
+  "releaseNotes": "Warrior TV Player 0.8.0\n\n- Updates now arrive automatically: the app checks when it starts and once a day, or any time from Settings > About > Check for updates.\n- Help & support: the diagnostics panel fits the screen, with Close always in view.\n- Clearer setup: choose \"Username & password\" or \"Playlist link\" when adding a provider.\n- Tidier screens: fewer technical terms throughout.",
+  "mandatory": false
+}
