@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "0.8.1",
-  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.8.1/WarriorTVPlayer-0.8.1.apk",
-  "sha256": "9109eb03fbe34bff8068854bc72e35de59ca8706876d6d02fa19459049fddbf0",
-  "releaseNotes": "Warrior TV Player 0.8.1\n\n- Guide: no more crash when you open Category again after picking one.\n- Guide: categories whose channels have no guide information now list those channels instead of showing an empty grid, and categories with no channels are left out of the list.\n- Guide: the title is always shown in full; the buttons have their own row underneath.",
+  "versionCode": 13,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.9.0/WarriorTVPlayer-0.9.0.apk",
+  "sha256": "12828a8ec55b62a2f1eea85dee290d91df8ba7e2cb8fe9baca969541353d2810",
+  "releaseNotes": "Warrior TV Player 0.9.0\n\n- Settings > Account shows your time left, end date, billing and your TV ID.\n- Renew from your phone: scan the QR code on the TV and pay by card, Apple Pay, Google Pay, Cash App Pay or Link, once or with auto-renew. The TV updates by itself within seconds.\n- Reminders 7, 3 and 1 days before your time ends, and on the last day.\n- When your time runs out, viewing pauses until you renew. Your profiles, favorites, progress and settings are all kept.\n- Warrior TV Player is a player only: no channels, content or IPTV subscriptions are sold or included.",
   "mandatory": false
 }
