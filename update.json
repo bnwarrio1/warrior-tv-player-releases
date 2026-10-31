@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "0.9.1",
-  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.9.1/WarriorTVPlayer-0.9.1.apk",
-  "sha256": "1fa4c9d0ce028b165c5fc27e8bb6f6fd32d6995a55cb60a687081d5e93d7e31f",
-  "releaseNotes": "Warrior TV Player 0.9.1\n\n- Clearer messages when adding a provider: \"Server name not found — check the spelling\" when the server name doesn't exist, and \"The server refused the connection\" when the server turns the connection down. Wrong-login and expired-account messages are unchanged.\n- The Esc key on a keyboard now works as Back.\n- Long release notes in the update window can be read to the end with the remote: press Up to select them, then Up and Down to scroll.",
+  "versionCode": 17,
+  "versionName": "0.10.0",
+  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.10.0/WarriorTVPlayer-0.10.0.apk",
+  "sha256": "25631e6fe2601e65cf2902a12fee8244bebcfd185d12aa053610d8db0a07f48f",
+  "releaseNotes": "Warrior TV Player 0.10.0\n\n- New: Settings › Diagnostics with a built-in speed test. It measures ping, jitter and packet loss, then download and upload speed on a live dial, and tells you whether SD, HD and 4K are ready to stream, with plain-English tips when something is holding playback back. The test uses Warrior TV Player's own servers; nothing about your IPTV provider is sent.\n- Every result is colour-coded: green for Excellent, yellow for Good, amber for Fair and red for Poor, with the word next to each value too. A key sits under the results, and \"What do these mean?\" shows the numbers behind each colour.\n- Diagnostics also shows the TV's connection (Wi-Fi band, signal strength and link speed, or Ethernet), the last test's results, the app and Android versions, the device, free storage and the TV code to read out when you contact us. The network's name is never shown.",
   "mandatory": false
 }
