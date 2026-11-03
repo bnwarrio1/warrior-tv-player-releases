@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "0.10.1",
-  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.10.1/WarriorTVPlayer-0.10.1.apk",
-  "sha256": "974226c8fc69ea0b63822662af6e52385973629eac5eb372abafd91d95215435",
-  "releaseNotes": "Warrior TV Player 0.10.1\n\n- Guide updates: when an update fails, the message now says why in plain words, for example \"Guide update failed: the provider's guide server didn't respond — try again later\". Slow guide servers get more time, a failed download is tried again automatically, and your current guide stays until a new one has fully arrived. When your provider's usual guide address stops answering with a guide, the app also looks where the provider says its guide is (the server address in your account info and the guide link in your playlist).\n- Help & support now fits on the TV screen (its bottom rows were cut off), shows the same TV code as Diagnostics and Settings › Account, and labels your IPTV provider's account and its expiry date as \"Provider account\" so they aren't mistaken for your Warrior TV Player plan.\n- New: Settings › Custom XMLTV URL › Send from phone. Scan the QR code on the TV, paste your guide link on your phone, type the 4-digit PIN shown on the TV and press Send. The link goes straight to the TV over your home Wi-Fi, never through our servers. The TV shows it with any password hidden and asks \"Use this guide link?\" before saving. The phone page closes after one link, after 5 minutes, after 5 wrong PINs, or when you leave the screen.",
+  "versionCode": 22,
+  "versionName": "0.11.0",
+  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.11.0/WarriorTVPlayer-0.11.0.apk",
+  "sha256": "838295ff53199f9c347fb5fba2273b49a5a0c1d7ed5c436d12392844bdbe7f3b",
+  "releaseNotes": "- Guide update",
   "mandatory": false
 }
