@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.11.0/WarriorTVPlayer-0.11.0.apk",
-  "sha256": "838295ff53199f9c347fb5fba2273b49a5a0c1d7ed5c436d12392844bdbe7f3b",
-  "releaseNotes": "- Guide update",
+  "versionCode": 25,
+  "versionName": "0.11.1",
+  "apkUrl": "https://github.com/bnwarrio1/warrior-tv-player-releases/releases/download/v0.11.1/WarriorTVPlayer-0.11.1.apk",
+  "sha256": "aafb582bd7ae7dd33cf4e47767c5650ca154f06207a9c7ea92fecf728eb56e78",
+  "releaseNotes": "- Playback fixes",
   "mandatory": false
 }
